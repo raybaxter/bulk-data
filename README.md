@@ -18,7 +18,7 @@ JSON: https://www.govinfo.gov/bulkdata/json/BILLS/115/1/hjres
 
 #### Note
 If crawling the xml and json endpoints programmatically, you should ensure that you set the appropriate accept headers in your request, or you may see a 406 response.
-e.g for json - `Accept: application/json`
+E.g for json - `Accept: application/json`
 
 
 
